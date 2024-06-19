@@ -22,8 +22,8 @@ export const siteConfig: Config = {
   description: "descubre al cojudazo que llevas dentro",
   lang: "en-GB",
   profile: {
-    author: "Amy Dang",
-    description: "your bio description"
+    author: "mediodiablo",
+    description: "miembro fundador, managing partner, principal contribuyente"
   }
 }
 
@@ -57,23 +57,23 @@ export const socialLinks: Array<SocialLink> = [
 
 export const NAV_LINKS: Array<{ title: string, path: string }> = [
   {
-    title: "Home",
+    title: "home",
     path: "/",
   },
   {
-    title: "About",
+    title: "about",
     path: "/about",
   },
   {
-    title: "Blog",
+    title: "blog",
     path: "/blog",
   },
   {
-    title: "Projects",
+    title: "projects",
     path: '/projects'
   },
   {
-    title: "Archive",
+    title: "arch.chivos",
     path: '/archive'
   }
 ];
