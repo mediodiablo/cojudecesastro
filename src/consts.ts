@@ -36,17 +36,17 @@ export const socialLinks: Array<SocialLink> = [
   {
     icon: "mdi:github",
     friendlyName: "Github",
-    link: "https://github.com/kirontoo/astro-theme-cody",
+    link: "https://github.com/mediodiablo/cojudecesastro",
   },
-  {
+  /**{
     icon: "mdi:linkedin",
     friendlyName: "LinkedIn",
     link: "#",
-  },
+  },*/
   {
     icon: "mdi:email",
     friendlyName: "email",
-    link: "mailto:ndangamy@gmail.com",
+    link: "mailto:mediodiablo@cojudeces.com",
   },
   {
     icon: "mdi:rss",
