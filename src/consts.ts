@@ -18,8 +18,8 @@ type SocialLink = {
 }
 
 export const siteConfig: Config = {
-  title: "Astro Theme Cody",
-  description: "",
+  title: "cojudeces.com",
+  description: "descubre al cojudazo que llevas dentro",
   lang: "en-GB",
   profile: {
     author: "Amy Dang",
