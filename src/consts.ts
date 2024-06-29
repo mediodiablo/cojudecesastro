@@ -20,7 +20,7 @@ type SocialLink = {
 export const siteConfig: Config = {
   title: "cojudeces.com",
   description: "descubre al cojudazo que llevas dentro",
-  lang: "en-GB",
+  lang: "es",
   profile: {
     author: "mediodiablo",
     description: "miembro fundador, managing partner, principal contribuyente"
@@ -61,17 +61,17 @@ export const NAV_LINKS: Array<{ title: string, path: string }> = [
     path: "/",
   },
   {
-    title: "about",
+    title: "escuadron",
     path: "/about",
   },
   {
     title: "blog",
     path: "/blog",
   },
-  {
+  /**{
     title: "projects",
     path: '/projects'
-  },
+  }*/,
   {
     title: "arch.chivos",
     path: '/archive'

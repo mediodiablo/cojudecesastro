@@ -31,7 +31,7 @@
   }
 
   html body {
-    @apply mx-auto flex min-h-screen max-w-6xl flex-col px-4 pt-4 md:pt-8 font-sans text-lg font-normal antialiased bg-bgColor text-textColor;
+    @apply mx-auto flex min-h-screen max-w-6xl flex-col px-4 pt-4 md:pt-8 font-sans text-base font-normal antialiased bg-bgColor text-textColor;
   }
 
   /*
@@ -152,7 +152,7 @@
   }
 
   .cody-bg {
-    @apply p-4 bg-surface;
+    @apply p-4 bg-surface rounded;
   }
 
   .cody-copy-code {
@@ -164,7 +164,16 @@
     @apply mr-2 text-accent-2;
   }
 
+  .subtitle:before {
+    content: "#";
+    @apply mr-2 text-accent-2;
+  }
+
   .title {
+    @apply text-2xl font-bold mb-4;
+  }
+
+  .subtitle {
     @apply text-lg font-bold mb-4;
   }
 
