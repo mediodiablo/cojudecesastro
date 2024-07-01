@@ -4,7 +4,6 @@ description: 'defensibilidad de lo defendible'
 pubDate: '2023-10-10'
 updateDate: 
 tags: ["parenting"]
-series: ''
 draft: false
 hide: false
 aliases: 

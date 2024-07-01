@@ -4,7 +4,6 @@ description: 'lista de libros para el 2024'
 pubDate: '2024-01-05'
 updateDate:
 tags: ["libros"]
-series: ""
 draft: false
 type: post
 site: cojudeces.com
