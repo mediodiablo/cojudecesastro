@@ -74,6 +74,6 @@ export const NAV_LINKS: Array<{ title: string, path: string }> = [
   }*/,
   {
     title: "arch.chivos",
-    path: "/archive"
+    path: "/archive",
   }
 ];
