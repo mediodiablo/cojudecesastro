@@ -29,4 +29,4 @@ De todos modos, queremos rectificar las cosas, y con esto presentamos la siguien
 
 La lista está organizada por orden de azar y a sabiendas que *life will get in the middle*. 
 
-Nuestra guía ha sido, y continuará siendo, la búsqueda de belleza y conocimiento en libros que han sobrevivido el paso del tiempo, con excepciones de dos tipos: libros técnicos (por ejemplo, física, biología, computación) y, en temas literarios, libros recomendados por fuentes más que confiables (id est el [Gran Reynaldo](https://www.cojudeces.com/etica-y-estetica-de-bibliotecas/)).
+Nuestra guía ha sido, y continuará siendo, la búsqueda de belleza y conocimiento en libros que han sobrevivido el paso del tiempo, con excepciones de dos tipos: libros técnicos (por ejemplo, física, biología, computación) y, en temas literarios, libros recomendados por fuentes más que confiables (id est el [Gran Reynaldo](https://www.cojudeces.com/etica-y-estetica-de-bibliotecas/)).           
