@@ -13,7 +13,7 @@ created: '2024-01-05'
 completed: '2024-01-05'
 published: '2024-01-05'
 heroImage: 
-  src: './images/2024-01-Libros-Gredos.jpg'
+  src: '/public-images/2024-01-Kraig.jpg'
   alt: 'Libros de la Biblioteca Clásica Gredos'
 ---
 el 2023 no fue un buen año en el tema libresco. Sobre todo para los que nos consideramos aficionados a los buenos libros y las buenas ediciones. Un poco de historia y otro poco de filosofía, y nada más. Al mismo tiempo, leímos a Platón en Biblioteca Clásica Gredos, tres diálogos, que es casi nada y a la vez no es poco.
