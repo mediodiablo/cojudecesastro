@@ -20,6 +20,7 @@ resources:
 heroImage: 
   src: '/public-images/2023-02-Hoek-en-Escocia.jpg'
   alt: 'Harmen Hoek descansando frente al mar en Escocia'
+order: 2
 ---
 La historia del Silent Solo Hiking (SHH) es corta. No llega a los cinco años. Sin embargo, con el ascenso de Harmen Hoek, nos preguntamos si ya se ha conquistado la cumbre de este tipo de films. El tiempo lo dirá.
 Aquí tres filmmakers que representan diferentes etapas de SHH.

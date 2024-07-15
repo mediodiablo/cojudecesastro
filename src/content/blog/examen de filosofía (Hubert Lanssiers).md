@@ -15,6 +15,7 @@ completed: 2023-04-15
 draft: false
 hide: false 
 resources:
+order: 1
 ---
 Del inigualable Padre Hubbert Lanssiers, examen de filosofía de 5to de secundaria, 
 
