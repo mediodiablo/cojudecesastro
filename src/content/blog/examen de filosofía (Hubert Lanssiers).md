@@ -6,7 +6,6 @@ updateDate:
 tags:
   - filosofía
   - reflexiones
-series: ""
 type: post
 site: cojudeces.com
 status: published
