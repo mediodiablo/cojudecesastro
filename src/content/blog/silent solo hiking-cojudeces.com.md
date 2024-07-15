@@ -18,7 +18,7 @@ resources:
 - https://www.reddit.com/r/SilentSoloHikes/comments/wekflr/first_silent_solo_hike_videos/
 - [[king baldwin]]
 heroImage: 
-  src: '/src/content/blog/images/2023-02-Hoek-en-Escocia.jpg'
+  src: '/public-images/2023-02-Hoek-en-Escocia.jpg'
   alt: 'Harmen Hoek descansando frente al mar en Escocia'
 ---
 La historia del Silent Solo Hiking (SHH) es corta. No llega a los cinco años. Sin embargo, con el ascenso de Harmen Hoek, nos preguntamos si ya se ha conquistado la cumbre de este tipo de films. El tiempo lo dirá.
