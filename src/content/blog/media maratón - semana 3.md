@@ -36,7 +36,7 @@ Hombres de 45 años (velocidad en minutos por milla / tiempo total)
 - Avanzado: 7:25 / 1:37:15
 - Elite: 6:38 / 1:26:59
 
-Como dije en el [post anterior](https://www.cojudeces.com/el-regalo-antiperfecto/), necesito una velocidad entre intermedio y avanzado para salir con la frente en alto.
+Como dije en el [post anterior](../el%20regalo%20antiperfecto.md), necesito una velocidad entre intermedio y avanzado para salir con la frente en alto.
 
 Otra búsqueda en Google y salimos con un programa de 12 semanas para correr la media maratón a 1:45 (es decir, a 8:01 minutos/milla). Aquí el [link](https://www.runnersworld.com/uk/training/half-marathon/a760103/rws-12-week-sub-145-half-marathon-schedules/?ref=cojudeces.com), y abajo el resumen.
 
