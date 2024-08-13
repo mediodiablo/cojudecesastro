@@ -5,7 +5,6 @@ pubDate: 2022-12-04
 updateDate: 
 tags: 
 - libros
-- literatura
 type: post
 site: cojudeces.com
 status: published
